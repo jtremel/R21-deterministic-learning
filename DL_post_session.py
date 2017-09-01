@@ -3,8 +3,6 @@
 """
 Deterministic Learning Post-Learning Behavioral Session (version 5.0.0)
 
-XXXXX Description Here XXXXX
-
 Note, input list files for the post tests from the ListGen v5+ require you to paste in the selected words from the 
 DL scan session data file.
 
