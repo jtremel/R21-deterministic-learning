@@ -3,9 +3,7 @@
 """
 Deterministic Learning Localizer Task (version 1.0.0)
 
-XXXXX Description Here XXXXX
-
-This requires 12 list files (1 for each run), generated from the ListGen v5+ Excel macro
+This requires 12 list files (1 for each run), generated from the LocListGen v5+ Excel macro
 
 ~~ Version Info ~~
 0.1.0: Jan 31, 2017, initial development version
