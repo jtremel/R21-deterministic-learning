@@ -3,8 +3,6 @@
 """
 Deterministic Learning Scan Session (version 5.0.1)
 
-XXXXX Description Here XXXXX
-
 ~~ Version Info ~~
 5.0.1: Jan 18, 2017, minor adjustments to scan version. 
     Fixed error with randomizing the order of Round 2 lists
