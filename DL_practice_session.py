@@ -1,14 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-XXXXXXXXXXXXXXXXXXXXXX change the following XXXXXXXXXXXXXXXXXXXXXX
-
-
-~~ Version History ~~
-0.1.0: Feb 9, 2017: development,
-
-XXXXXXXXXXXXXXXXXXXXXX Change above XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 ~~ PsychoPy Version information and Citations ~~
 Developed for PsychoPy2 v1.82.01
   Peirce, JW (2007) PsychoPy - Psychophysics software in Python. 
